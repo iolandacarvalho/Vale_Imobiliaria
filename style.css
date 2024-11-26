@@ -1,0 +1,38 @@
+.nome {
+    background-color: #11334d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: sticky;
+    top: 0;    
+}
+.cabecalho {
+    background-color: #11334d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+    gap: 10px;
+}
+.nome img {
+    width: 350px;
+}
+.logocabecalho img {
+    width: 100px;
+}
+
+.nav-link {
+    color: #D7B38C;
+}
+.nav-item.nav-link-active {
+    color: #D7B38C;
+    border-bottom: 2px solid #D7B38C;
+}
+.nav-link:hover {
+    color: #bb9c7b;
+}
+
+.blabla {
+    height: 1000px;
+}
